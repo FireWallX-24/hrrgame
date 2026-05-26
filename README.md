@@ -22,3 +22,23 @@ Qorxu elementi (Oyunda): İndi o mexanizmlər xarab olub (və ya qəsdən işlə
 
 DNT Şifrəli Qapılar: Muzeyin bəzi laboratoriya qapılarını açmaq üçün sənə Vance-ın yaratdığı xüsusi uşaq DNT-si lazımdır. Oyunçu bunu etmək üçün hələ də otaqların birində borulara və naqillərə bağlı vəziyyətdə saxlanılan, yarı-canlı bio-robot oyuncağın bədənindən o mayeni (DNT nümunəsini) çəkməlidir. Cihazı robota qoşanda o acı ilə qışqırmağa başlayır. Qapını açmaq üçün o uşağa əzab verməyə məcbursan.
 
+1. "The Humi" (Rəsmi adı: Subject-04: Synaptic Mimic)
+Bu, uşaqların səs tellərini və eşitmə sinirlərini robot tezlik qəbulediciləri ilə mükəmməl sintez etmiş ilk uğurlu modeldir. Muzey açıq olanda uşaqların səslərini təqlid edib onlarla gizlənpaç oynayan sevimli bir gəlincik/robot idi.
+
+2. "The Echo" (Rəsmi kodu: Subject-07: Vocal Mesh)
+Uşaqların eşitmə və səs aparatının sənaye səs gücləndiriciləri ilə sintezidir.
+Geympley və Çarəsizlik: Səssiz liminal space dəhlizlərində irəliləyərkən uzaqdan gələn uşaq gülüşləri və ya ağlamaları eşidirsən. Amma bu səslər təbii deyil, metal borulardan keçərək gələn, əks-səda verən ritmik səslərdir. The Echo sənin ayaq səslərini kilometrlərlə uzaqdan eşidir. Ona görə də bəzi dəhlizləri tamamilə çömbələrək, yavaşca keçməlisən.
+
+Jumpscare anı: Əgər səs salsan, divardakı nəhəng oyuncaq borularının birindən qəfildən metal naqillərə sarılmış eybəcər bir baş uzanır. Ağzının yerində böyük bir sənaye dinamiki var. O dinamikdən uşağın həqiqi fəryadı elə bir yüksək tezlikdə (ultrasəs) çıxır ki, ekran titrəyir, personajın qulaqlarından qan gəlir və çarəsizcə yerə yıxılıb huşunu itirir.
+
+"The Clicker" (Rəsmi kodu: Subject-10: Bone-Drive)
+Uşaqların sümük iliyini və oynaqlarını hidravlik porshenlər və metal çubuqlarla əvəz edən qorxunc, uzunayaqlı bir model.
+
+Geympley və Çarəsizlik: Bu varlıq çox sürətlidir. Monoton sarı otaqlarda gəzərkən uzaqdan sümüklərin metala çırpılma səsi — tıq, çırt, tıq, çırt — gəlir. Bu səs onun sümükləşmiş robot qollarının hərəkət mexanizmidir. Səsi eşidən kimi qaçıb gizlənməyə yer axtarmalısan, çünki düz xətt üzrə səndən qat-qat sürətli qaçır.
+
+Jumpscare anı: Gizləndiyin şkafın qapısını qəfildən metal, uzun qabırğaya bənzər barmaqları ilə parçalayır. Sənə doğru əyiləndə görürsən ki, bədəni tamamilə açıqdadır — insan sümükləri naqillərlə mühərrikə bağlanıb. Səni öz içinə çəkməyə çalışır ki, Vance-ın yarımçıq qalan növbəti sınağını tamamlasın.
+
+1. Bədbəxt Hadisə (Trajedi)
+İllər öncə Vance-ın övladı sağalmaz, amansız bir genetik sinir xəstəliyinə tutulur (və ya qorxunc bir qəza keçirir). Uşağın bədəni, sinir sistemi hər gün gözünün qabağında çürüyür və ölürdü. Vance bütün tibbi elmini ortaya qoysa da, bioloji bədəni xilas edə bilməyəcəyini başa düşdü. Övladı son nəfəsini verəndə, Vance dəli riskə əl atdı: uşağın hələ tam ölməmiş sinir uclarını və DNT-sini öz laboratoriyasında hazırladığı ilk robot bədəninə — Subject-01-ə köçürdü.
+
+Qəza (The Incident): Vance Subject-01-in sinir şəbəkəsini (neural network) uşaq DNT-si ilə sintez edərkən sistemi həddindən artıq gücləndirdi (overclock etdi). Robotun bioloji sinir ucları qəfildən Vance-ın gözləmədiyi bir şəkildə inkişaf etdi və laboratoriyadakı bioloji materialları, kabelləri, hətta o an Vance-ın yanında olan köməkçilərini və ya mühafizəçilərini canlı-canlı öz daxilinə çəkərək parçaladı.
